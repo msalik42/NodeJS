@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "simple nodejs tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msalik42/NodeJS.git"
+  },
+  "author": "salik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msalik42/NodeJS/issues"
+  },
+  "homepage": "https://github.com/msalik42/NodeJS#readme",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
